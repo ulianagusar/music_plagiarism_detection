@@ -1,0 +1,33 @@
+,ori_title,comp_title,relation,notes
+0,The Gap Band - Oops Upside Your Head,Mark Ronson - Uptown Funk _Official Video_ ft_ Bruno Mars,plag,melody of the post-chorus/bridge
+1,Jennifer Rush - The Power Of Love _Official Video_ _VOD_,Céline Dion - The Power Of Love _Official Remastered HD Video_,remake,"same lyrics, same melody"
+2,Without you - Badfinger,Mariah Carey - Without You _Official Lyric Video_,remake,"same lyrics, same melody, but pretty different way of singing (male/female) and tempo"
+3,_Official Audio_ 이정현_Lee Jung-hyun_ - 와,Bandido - Vamos Amigos _Eurodance Version_,plag,slightly different tempo
+4,Queen - Under Pressure _Official Video_,Vanilla Ice - Ice Ice Baby _Official Music Video_,plag,melody
+5,Joyful Noise - Official Music Video_ FLAME feat_ Lecrae _ John Reilly,Katy Perry - Dark Horse _Lyrics_ ft_ Juicy J,plag,melody
+6,Astrud Gilberto - Maria Quiet,Smoke On The Water _2024 Remastered_,plag_doubt,"same melody on different instruments"
+7,Crazy Frog - Axel F _Official Video_,_DANCE_ 싸이 _PSY_ - 챔피언,plag_doubt,
+8,Sting - Shape of My Heart _Official Music Video_,Juice WRLD - Lucid Dreams _Official Music Video_,remake,"same melody, different lyrics, different beat"
+9,September - Cry For You,Ed Sheeran - Bad Habits _Official Lyric Video_,plag_doubt,"slightly differnt melody, different instruments and genres"
+10,Major Lazer - Sua Cara _Feat_ Anitta _ Pabllo Vittar_ _Official Music Video_,DJ Snake - Taki Taki ft_ Selena Gomez_ Ozuna_ Cardi B _Official Music Video_,plag_doubt,hook
+11,The Police - Message In A Bottle _Official Music Video_,Rihanna-Love without Tragedy_only_,plag_doubt,
+12,Gloria Gaynor-I Will Survive,진주-난 괜찮아,remake,"different languages, same melody"
+13,Carmen - Habanera,I-DLE - Nxde,remake,sampled melody
+14,Right Said Fred - I_m Too Sexy _Original Mix - 2006 Version_,Taylor Swift - Look What You Made Me Do,plag,melody of the vocals in the chores
+15,The Monkees _ Mary_ Mary,ТНМК _ _Люба_ Люба_,plag,
+16,Queen - Under Pressure _Official Video_,Katy Perry - Dark Horse _Lyrics_ ft_ Juicy J,not_plag,completely different songs
+17,The Gap Band - Oops Upside Your Head,Vanilla Ice - Ice Ice Baby _Official Music Video_,not_plag,different melodies and style
+18,Jennifer Rush - The Power Of Love _Official Video_ _VOD_,Juice WRLD - Lucid Dreams _Official Music Video_,not_plag,different genre and melody
+19,Without you - Badfinger,Ed Sheeran - Bad Habits _Official Lyric Video_,not_plag,different songs entirely
+20,Sting - Shape of My Heart _Official Music Video_,Mark Ronson - Uptown Funk _Official Video_ ft_ Bruno Mars,not_plag,ballad vs funk - no similarity
+21,Gloria Gaynor-I Will Survive,DJ Snake - Taki Taki ft_ Selena Gomez_ Ozuna_ Cardi B _Official Music Video_,not_plag,disco vs reggaeton
+22,Carmen - Habanera,Vanilla Ice - Ice Ice Baby _Official Music Video_,not_plag,opera vs hip-hop
+23,Crazy Frog - Axel F _Official Video_,Mariah Carey - Without You _Official Lyric Video_,not_plag,electronic vs ballad
+24,September - Cry For You,Smoke On The Water _2024 Remastered_,not_plag,eurodance vs rock
+25,The Police - Message In A Bottle _Official Music Video_,Bandido - Vamos Amigos _Eurodance Version_,not_plag,rock vs eurodance
+26,Right Said Fred - I_m Too Sexy _Original Mix - 2006 Version_,Céline Dion - The Power Of Love _Official Remastered HD Video_,not_plag,dance vs ballad
+27,The Monkees _ Mary_ Mary,I-DLE - Nxde,not_plag,60s pop vs k-pop
+28,Astrud Gilberto - Maria Quiet,_DANCE_ 싸이 _PSY_ - 챔피언,not_plag,bossa nova vs k-pop
+29,Joyful Noise - Official Music Video_ FLAME feat_ Lecrae _ John Reilly,진주-난 괜찮아,not_plag,christian hip-hop vs k-pop
+30,_Official Audio_ 이정현_Lee Jung-hyun_ - 와,Taylor Swift - Look What You Made Me Do,not_plag,k-pop vs pop
+31,Major Lazer - Sua Cara _Feat_ Anitta _ Pabllo Vittar_ _Official Music Video_,Rihanna-Love without Tragedy_only_,not_plag,latin edm vs r&b
