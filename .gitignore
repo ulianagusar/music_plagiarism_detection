@@ -1,13 +1,4 @@
-__pycache__/
-*.pyc
-*.pyo
 
-.venv/
-v/
-
-# Dataset
 smp_dataset/
 
-# Notebooks
-baseline_optimized_notebook.ipynb
-plagiarism_hybrid_notebook.ipynb
+
